@@ -1,2 +1,2 @@
 # Contact Me! 
-Like mentioned in my bio, you can contact me here about anything.
+To get in touch with me, open a new issue under the "Issues" tab
